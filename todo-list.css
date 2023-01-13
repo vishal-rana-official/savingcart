@@ -1,0 +1,20 @@
+html, body{
+    scroll-behavior: smooth;
+}
+
+.dark{
+    background: black;
+    color: whitesmoke;
+}
+.cardtitledarkmode{
+    color: darkslateblue;
+}
+.jumbone{
+    margin: 20px 100px;
+}
+.formgroup1{
+    margin: 35px 300px;
+}
+.savedcomplete{
+    padding: 10px 150px !important;
+}
